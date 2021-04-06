@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 <html lang="en">
 <head>
-<title>Table Practice</title>
+<title>Myron Green Table Practice</title>
 <meta charset="utf-8">
 <style>
 table { margin: auto;
@@ -25,28 +25,31 @@ tr:first-of-type { background-color: #006;
 </head>
 <body>
  <table border="1">  
- <caption>Lighthouse Island Bistro Specialty Coffee Menu</caption>
+ <caption>Dallas Baptist University Student Information</caption>
    <tr>
-     <th>Specialty Coffee</th>
-	 <th>Description</th>
-     <th>Price</th>
+     <th>Student Id:</th>
+	 <th>City</th>
+     <th>State</th>
+     <th>Age</th>
   </tr>
   <tr>
-     <td>Lite Latte</td>
-     <td>Indulge in a shot of espresso with steamed, skim milk. </td>
-	 <td>$3.50</td>
+     <td>97064875</td>
+     <td>Dallas </td>
+	 <td>Texas</td>
+   <td>35</td>
   </tr>
   <tr>
-     <td>Mocha Latte</td>
-     <td>Choose dark or mile chocolate with steamed milk.</td>
-	 <td>$4.00</td>
+     <td>7528798</td>
+     <td>Kansas City</td>
+	 <td>KS</td>
+   <td>25</td>
    </tr>
     <tr>
-     <td>MCP Latte</td>
-     <td>A lucious mocha latte with caramel and pecan syrup.</td>
-	 <td>$4.50</td>
+     <td>75863258</td>
+     <td>Washington</td>
+	 <td>DC</td>
+   <td>19</td>
   </tr>
 </table>
-
 </body>
 </html>
